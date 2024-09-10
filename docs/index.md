@@ -1,45 +1,35 @@
-# Runtime API Examples latest
+# What is Obscreen?
 
-This page demonstrates usage of some of the runtime APIs provided by VitePress.
+[Obscreen](https://obscreen.io) is a simple tool helping you to organizes and broadcasts media to your screens through any web browser. It uses a simple approach that avoids bulky hardware or complicated configurations.
 
-The main `useData()` API can be used to access site, theme, and page data for the current page. It works in both `.md` and `.vue` files:
+Keep reading to learn more, or [get started](./install) right away.
 
-```md
-<script setup>
-import { useData } from 'vitepress'
+## Why Obscreen?
 
-const { theme, page, frontmatter } = useData()
-</script>
+!!!include(includes/features-list.md)!!!
 
-## Results
+Visit the [website](https://obscreen.io) for demonstrations, or explore our latest updates in the [changelog](/releases).
 
-### Theme Data
-<pre>{{ theme }}</pre>
+## Getting started
 
-### Page Data
-<pre>{{ page }}</pre>
+Follow our [Installation Guide](./install) guide.
 
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
-```
+## Issue tracker
 
-<script setup>
-import { useData } from 'vitepress'
+For reporting bugs and requesting features, please utilize the [issue tracker.](https://github.com/jr-k/obscreen/issues)
 
-const { site, theme, page, frontmatter } = useData()
-</script>
+## Support
 
-## Results
+If you require assistance with Obscreen, please [initiate a discussion](https://github.com/jr-k/obscreen/issues/new/choose) or send an email to [support](mailto:obscreen@jierka.com).
 
-### Theme Data
-<pre>{{ theme }}</pre>
+## Community
 
-### Page Data
-<pre>{{ page }}</pre>
+Become part of our [Discord community](https://discord.obscreen.io) to interact with fellow Obscreen users.
 
-### Page Frontmatter
-<pre>{{ frontmatter }}</pre>
+## Behind the scenes
 
-## More
+Curious about the intricate details behind Obscreen? Explore the [learn more](./learn-more) overview.
 
-Check out the documentation for the [full list of runtime APIs](https://vitepress.dev/reference/runtime-api#usedata).
+## Documentation
+
+This documentation is open source and is available on [GitHub](https://github.com/obscreen/documentation).

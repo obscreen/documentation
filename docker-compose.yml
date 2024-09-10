@@ -1,0 +1,12 @@
+services:
+  obscreen-documentation:
+    restart: unless-stopped
+    container_name: obscreen-documentation
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5010:80"
+    volumes:
+      - .:/app
+      - /app/node_modules

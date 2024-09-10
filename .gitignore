@@ -41,9 +41,3 @@ temp/
 
 # Optional: Uncomment if you're using TypeScript
 *.tsbuildinfo
-
-# Optional: Uncomment if you're using yarn
-yarn.lock
-
-# Optional: Uncomment if you're using pnpm
-pnpm-lock.yaml

@@ -6,3 +6,19 @@
 .dark:root {
   --vp-c-brand-1: #8ac0f9;
 }
+
+:root ._deployment-types_standalone code span,
+:root ._deployment-types_distributed code span {
+  color: #555 !important;
+}
+
+.dark:root ._deployment-types_standalone code span,
+.dark:root ._deployment-types_distributed code span {
+  color: #999 !important;
+}
+
+:root ._deployment-types_standalone .info code span,
+:root ._deployment-types_distributed .info code span {
+  font-size: 20px;
+  line-height: 20px;
+}

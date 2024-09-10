@@ -1,0 +1,53 @@
+# Basic content types
+
+Obscreen supports the following basic content types:
+
+## Images
+
+Import pictures from your computer. Supported formats are:
+
+- `PNG`
+- `JPEG`
+- `GIF`
+- `WebP`
+
+By default, images are displayed to fit 100% height of the browser window.
+
+## Videos
+
+Import videos from your computer. Supported formats are:
+
+- `MP4`
+
+By default, images are displayed to fit 100% height of the browser window.
+
+Duration is automatically extracted from the video file and used for scheduling.
+
+## URLs (Iframe Embed)
+
+Display an iframe embed of a web page.
+
+By default, iframes are displayed to fit 100% width and 100% height of the browser window.
+
+## Youtube Embed
+
+Display a Youtube video. This is not an api integration so you need to manually set a duration for the video in slide settings.
+
+## Text
+
+Display a text. Supported customizations are:
+
+- `Text`
+- `Font size`
+- `Font color`
+- `Font bold`
+- `Font italic`
+- `Font underline`
+- `Text alignment`
+- `Background color`
+- `Scrolling effect activation`
+- `Scrolling speed`
+- `Scrolling direction` (left or right)
+- `Scroll speed`
+- `Single line mode`
+- `Text margins`
