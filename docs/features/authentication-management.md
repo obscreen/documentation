@@ -1,0 +1,16 @@
+# Authentication Management
+
+Obscreen provides a very simple way to manage authentication for your Studio instance.
+
+## Enable Authentication
+1. Go to `Settings` menu then `General` submenu.
+2. Under `5. Security` section, you can enable **Auth management**.
+3. Now a new `Security` will appear in menu, click on it.
+
+::: warning
+You'll be logged out from the current session. Default credentials are `admin` for both username and password.
+:::
+
+## Manage Users
+
+You can simply add, edit or delete users.

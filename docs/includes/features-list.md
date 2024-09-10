@@ -1,0 +1,10 @@
+- ⛺️ **Simple Architecture.** Starts in 2 seconds, uses any web browser to view media. Dead simple.
+- ✨ **Fancy graphical user interface.** Colorful, modern and easy to use.
+- 🪽 **Lightweight.** Minimal dependencies Python application and embeddable SQLite database.
+- 📆 **Flexible Content Rotation.** Set up dynamic playlists to automatically rotate content across your screens.
+- 🖥️ **Screen Fleet Management.** Easily manage and control multiple screens from a centralized dashboard.
+- 🔐 **Authentication Management.** Securely manage user authentication and access permissions.
+- 💾 **USB Embeddable content.** Plays content from flashdrive in offline mode.
+- 🔌 **Extendable.** Core API & Plugin system to extend capabilities.
+- 🌐 **Multi Languages.** Up to 16 languages supported.
+- 📺 **Chromecast.** Cast pictures and iframes to Chromecasts
