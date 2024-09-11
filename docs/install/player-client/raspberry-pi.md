@@ -3,7 +3,7 @@
 
 ## Hardware
 
-First, get a Raspberry Pi device. Version 4 or higher is recommended but it should work on any version (with enough RAM cause chromium is not so lightweight).
+First, grab a Raspberry Pi. Version 4 or later is ideal, but it should run fine on any version with enough RAM, as Chromium can be a bit heavy.
 
 ::: info Info
 Make sure you have a power supply with at least 2A of current to avoid any issue.<br />

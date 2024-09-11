@@ -12,6 +12,6 @@ You can install it on **Linux**, **macOS**, or **Windows**.
 ## Player Setup (Client)
 
 The Player is responsible for displaying the content provided by the Studio.
-You can run it on a **Raspberry Pi** or a **Smart TV**.
+You can run it on a **Raspberry Pi**, any **Linux** computer, a **Smart TV** or any other device with a **browser**.
 
 [Setup Player](/install/player-client)
