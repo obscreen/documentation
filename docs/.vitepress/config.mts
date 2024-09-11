@@ -20,7 +20,7 @@ export default defineConfig({
     logo: '/imgs/logo.png',
     nav: [
       { text: 'Overview', link: '/' },
-      { text: 'Install', link: '/markdown-examples' },
+      { text: 'Install', link: '/install' },
       { text: 'Demo', link: '/demo' },
       { text: 'Home', link: 'https://obscreen.io' },
     ],
