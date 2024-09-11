@@ -32,22 +32,3 @@ By default, iframes are displayed to fit 100% width and 100% height of the brows
 ## Youtube Embed
 
 Display a Youtube video. This is not an api integration so you need to manually set a duration for the video in slide settings.
-
-## Text
-
-Display a text. Supported customizations are:
-
-- `Text`
-- `Font size`
-- `Font color`
-- `Font bold`
-- `Font italic`
-- `Font underline`
-- `Text alignment`
-- `Background color`
-- `Scrolling effect activation`
-- `Scrolling speed`
-- `Scrolling direction` (left or right)
-- `Scroll speed`
-- `Single line mode`
-- `Text margins`
