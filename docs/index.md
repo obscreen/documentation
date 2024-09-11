@@ -16,7 +16,7 @@ Follow our [Installation Guide](./install) guide.
 
 ## Issue tracker
 
-For reporting bugs and requesting features, please utilize the [issue tracker.](https://github.com/jr-k/obscreen/issues)
+For reporting bugs and requesting features, please use the [issue tracker.](https://github.com/jr-k/obscreen/issues)
 
 ## Support
 
