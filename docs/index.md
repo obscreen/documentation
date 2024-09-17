@@ -20,7 +20,7 @@ For reporting bugs and requesting features, please use the [issue tracker.](http
 
 ## Support
 
-If you require assistance with Obscreen, please [initiate a discussion](https://github.com/jr-k/obscreen/issues/new/choose) or send an email to [support](mailto:obscreen@jierka.com).
+If you require assistance with Obscreen, please [initiate a discussion](https://github.com/jr-k/obscreen/issues/new/choose) or send an email to [support](mailto:hello@obscreen.io).
 
 ## Community
 

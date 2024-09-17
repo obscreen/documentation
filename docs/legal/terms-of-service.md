@@ -28,7 +28,7 @@ a. Setting up and maintaining hardware (e.g., Raspberry Pi, Smart TV) and servic
 
 b. Ensuring that your use of Obscreen complies with all applicable laws, regulations, and third-party agreements.
 
-c. Keeping your license keys, passwords, and any credentials confidential. If you suspect unauthorized use of your instance of Obscreen, you must notify us immediately at obscreen@jierka.com.
+c. Keeping your license keys, passwords, and any credentials confidential. If you suspect unauthorized use of your instance of Obscreen, you must notify us immediately at hello@obscreen.io.
 
 d. Configuring the **Player Fleet Management** or **Studio Fleet Management** features if using distributed installations, as outlined in the documentation.
 
@@ -64,7 +64,7 @@ Obscreen may require the purchase of a valid license. By purchasing a license, y
 
 ## 11. Refund Policy
 
-We offer refunds for license purchases within seven (7) days of the purchase date, at our sole discretion. To request a refund, contact us at obscreen@jierka.com with your purchase details and the reason for your refund request. Refund requests made after the 7-day period will not be honored.
+We offer refunds for license purchases within seven (7) days of the purchase date, at our sole discretion. To request a refund, contact us at hello@obscreen.io with your purchase details and the reason for your refund request. Refund requests made after the 7-day period will not be honored.
 
 ## 12. Privacy and Data Protection
 
@@ -72,7 +72,7 @@ Your privacy is important to us. By using Obscreen, you agree to our Privacy Pol
 
 ## 13. Subscription and Renewals
 
-Your subscription for Obscreen will automatically renew at the end of each subscription period unless you cancel before the renewal date. You authorize us to charge your payment method for the renewal fees. You can manage or cancel your subscription by contacting us at obscreen@jierka.com.
+Your subscription for Obscreen will automatically renew at the end of each subscription period unless you cancel before the renewal date. You authorize us to charge your payment method for the renewal fees. You can manage or cancel your subscription by contacting us at hello@obscreen.io.
 
 ## 14. Account and Device Restrictions
 
@@ -88,4 +88,4 @@ These Terms will be governed by and construed in accordance with the laws of Fra
 
 ## Contact Information
 
-For any questions or concerns regarding these Terms, please contact us at obscreen@jierka.com.
+For any questions or concerns regarding these Terms, please contact us at hello@obscreen.io.

@@ -80,12 +80,12 @@ The Software is not intended for use by anyone under the age of 13. We do not kn
 
 If you are a resident of the European Union (EU) or the European Economic Area (EEA), you have certain rights under the General Data Protection Regulation (GDPR). If you are a resident of California, USA, you have certain rights under the California Consumer Privacy Act (CCPA).
 
-To exercise any of these rights, please contact us at obscreen@jierka.com. We may require you to provide proof of identity before we can process your request.
+To exercise any of these rights, please contact us at hello@obscreen.io. We may require you to provide proof of identity before we can process your request.
 
 Please note that we may not be able to fulfill your request if we are required to retain certain information by law or if we have a legitimate interest in continuing to process the information for specific purposes.
 
 ## Contact Us
 
-If you have any questions or concerns about this Privacy Policy, please contact us at obscreen@jierka.com.
+If you have any questions or concerns about this Privacy Policy, please contact us at hello@obscreen.io.
 
 By using the Software, you acknowledge that you have read and agree to be bound by this Privacy Policy.
