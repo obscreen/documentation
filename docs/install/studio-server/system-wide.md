@@ -1,5 +1,9 @@
 # Studio System-wide
 
+::: danger
+Obscreen studio is under development, it is not available for now...
+:::
+
 ## System dependencies
 
 Obscreen relies on a few dependencies that you need to install before starting the installation.
