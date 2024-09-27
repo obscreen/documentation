@@ -42,4 +42,8 @@ If your player is a Raspberry Pi with Obscreen Player installed, this issue does
 
 Obscreen offers a REST API to control contents, playlist and slides in Studio instance. You can find the documentation [here](/features/api).
 
+## I'm locked out of the Studio because I forgot my password. How can I reset it?
+
+You have to start Studio with `RESCUE_MODE=true` environment variable to bypass login and be able to reset the password.
+
 !!!include(includes/footer.md)!!!
