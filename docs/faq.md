@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Frequently asked questions
 
 Please <a href="javascript:document.querySelector('.DocSearch.DocSearch-Button').click()">search</a> for your question, or [open an issue](https://github.com/jr-k/obscreen/issues/new/choose) if you can't find an answer.
@@ -40,3 +42,4 @@ If your player is a Raspberry Pi with Obscreen Player installed, this issue does
 
 Obscreen offers a REST API to control contents, playlist and slides in Studio instance. You can find the documentation [here](/features/api).
 
+!!!include(includes/footer.md)!!!

@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Browser
 
 Browser is the core of any Obscreen Player and you only need a web browser to run it.
@@ -41,3 +43,4 @@ Just open your web browser and either go to:
 
 !!!include(includes/playlist-configuration.md)!!!
 
+!!!include(includes/footer.md)!!!

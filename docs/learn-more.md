@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Learn more
 
 [Obscreen](https://obscreen.io) is a tool designed to broadcast content from a server (Studio) to a client (Player). The Studio can be installed on Linux, Windows, or macOS and manages the content. 
@@ -22,3 +24,5 @@ To get started with Obscreen, you need to install the Studio (server) and Player
 
 - **Studio Installation:** You can install the Studio on Linux, macOS, or Windows. Detailed instructions for each platform are provided in the [Installation section](/install).
 - **Player Setup:** The Player can run on a Raspberry Pi or a Smart TV. Instructions for both setups are provided in the Player section of the [Installation section](/install).
+
+!!!include(includes/footer.md)!!!

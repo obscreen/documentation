@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Obscreen Privacy Policy
 
 Jessym Reziga ("we", "us", or "our") is committed to protecting your privacy while using our software, Obscreen ("the Software"). This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use the Software.
@@ -89,3 +91,5 @@ Please note that we may not be able to fulfill your request if we are required t
 If you have any questions or concerns about this Privacy Policy, please contact us at hello@obscreen.io.
 
 By using the Software, you acknowledge that you have read and agree to be bound by this Privacy Policy.
+
+!!!include(includes/footer.md)!!!

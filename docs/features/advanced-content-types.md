@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Advanced content types
 
 Obscreen supports the following advanced content types:
@@ -47,3 +49,5 @@ Display a text. Supported customizations are:
 - `Scroll speed`
 - `Single line mode`
 - `Text margins`
+
+!!!include(includes/footer.md)!!!

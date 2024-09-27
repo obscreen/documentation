@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Distributed deployment
 
 !!!include(includes/deployment-types-legend.md)!!!
@@ -24,3 +26,5 @@ The server determines the content to display based on IP address of each Player 
 ---
 
 !!!include(includes/deployment-smart-tv.md)!!!
+
+!!!include(includes/footer.md)!!!

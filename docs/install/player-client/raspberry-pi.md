@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Raspberry Pi
 
 
@@ -52,3 +54,5 @@ Playlist URL is set in file `var/run/play` under variable `STUDIO_URL`.
 You can change it by editing the file and fill it with either:
 
 !!!include(includes/playlist-configuration.md)!!!
+
+!!!include(includes/footer.md)!!!

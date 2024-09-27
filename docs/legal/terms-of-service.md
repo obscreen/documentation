@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Obscreen Terms of Service
 
 Welcome to Obscreen. Obscreen is software developed by Jessym Reziga ("we", "us", or "our"). By downloading, installing, or using Obscreen, you ("user", "you", or "your") agree to comply with and be bound by these Terms of Service ("Terms"). These Terms include the **Obscreen License Agreement (OBLv1)** and our Privacy Policy.
@@ -89,3 +91,5 @@ These Terms will be governed by and construed in accordance with the laws of Fra
 ## Contact Information
 
 For any questions or concerns regarding these Terms, please contact us at hello@obscreen.io.
+
+!!!include(includes/footer.md)!!!

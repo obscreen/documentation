@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Obscreen License Agreement (OBLv1)
 
 ## Acceptance
@@ -55,3 +57,4 @@ To the extent permitted by law, Obscreen is provided "as is" without warranty or
 - **Use** includes any action taken with the software that requires a license under these terms.
 - **Trademark** refers to trademarks, service marks, and similar rights.
 
+!!!include(includes/footer.md)!!!

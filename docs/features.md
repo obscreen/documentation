@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Features Overview
 
 !!!include(includes/features-list.md)!!!
@@ -15,3 +17,5 @@
 - [Plugin system](/features/plugin-system)
 - [Multi languages](/features/multi-languages)
 - [Api](/features/api)
+
+!!!include(includes/footer.md)!!!

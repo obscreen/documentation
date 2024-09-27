@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Multi languages
 
 Obscreen is designed to be used by people from all over the world. It supports 16 languages and can be easily extended or improved.
@@ -20,3 +22,5 @@ Obscreen is designed to be used by people from all over the world. It supports 1
 - `Thai` (th)
 - `Vietnamese` (vi)
 - `Chinese` (zh)
+
+!!!include(includes/footer.md)!!!

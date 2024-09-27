@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Customize Web Player
 
 Obscreen provides an URL for each playlist.<br />
@@ -85,3 +87,4 @@ You can use the following query parameters to configure the player through url p
 **Description:** Playlist synchronization update polling interval in seconds<br />
 **Available values:** Any positive integer value<br />
 
+!!!include(includes/footer.md)!!!

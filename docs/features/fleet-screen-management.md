@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Fleet screen management
 
 Fleet screen management allows you to manage multiple Players from a single central Studio instance.
@@ -37,3 +39,5 @@ Now, once a request is made by a player to your central Studio instance, it will
 - Identifies the player based on its IP address.
 - Retrieves the player’s associated group.
 - Automatically fetches the corresponding playlist.
+
+!!!include(includes/footer.md)!!!

@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Studio System-wide
 
 ::: danger
@@ -121,3 +123,5 @@ deactivate
 **Windows:** Restart your server manually<br />
 **MacOS:** Restart your server manually<br />
 :::
+    
+!!!include(includes/footer.md)!!!

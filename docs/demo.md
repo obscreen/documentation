@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Live Demo
 
 ## Try it!
@@ -9,3 +11,5 @@ Location: `Paris - France`
 It is a temporary live demo, all data will be deleted after `30 minutes`.<br />
 You could notice a `~30 secs` downtime between each updates.
 :::
+
+!!!include(includes/footer.md)!!!

@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Player (Client) setup
 
 The Player is responsible for displaying the content provided by the Studio.
@@ -10,3 +12,5 @@ There are four ways to install the Player:
 - [Browser](/install/player-client/browser)
 - [Smart TV](/install/player-client/smart-tv)
 - [Obsense](/install/player-client/obsense)
+
+!!!include(includes/footer.md)!!!

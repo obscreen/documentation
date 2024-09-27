@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Get started
 
 To get started with Obscreen, you need to install the Studio (server) and Player (client). Below are the available installation options.
@@ -15,3 +17,5 @@ The Player is responsible for displaying the content provided by the Studio.
 You can run it on a **Raspberry Pi**, any **Linux** computer, a **Smart TV** or any other device with a **browser**.
 
 [Setup Player](/install/player-client)
+
+!!!include(includes/footer.md)!!!

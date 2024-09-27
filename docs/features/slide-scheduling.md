@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Slide scheduling
 
 Obscreen allows you to schedule slides in playlists with 3 different modes (`loop`, `datetime` and `inweek`).
@@ -34,3 +36,5 @@ Slide will appear at a specific date & time.
 **End at**
 
 `inweek`: Slide will leave leave loop at specified day of the week and time.
+
+!!!include(includes/footer.md)!!!

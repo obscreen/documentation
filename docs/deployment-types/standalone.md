@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Standalone deployment
 
 !!!include(includes/deployment-types-legend.md)!!!
@@ -48,3 +50,5 @@ Here, **Managed Multiple Standalone setup** setups are running independently, ea
 ---
 
 !!!include(includes/deployment-smart-tv.md)!!!
+
+!!!include(includes/footer.md)!!!

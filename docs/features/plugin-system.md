@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Plugin System
 
 Obscreen provides a plugin system for your Studio instance.
@@ -16,3 +18,5 @@ Also, you may need to restart your Studio instance to apply changes.
 If you want to create your own plugin, you can check [Dashboard Plugin](https://github.com/jr-k/obscreen/tree/master/plugins/user/Dashboard) to get started. It's a very simple (showcase only) plugin that adds a dashboard to your Studio instance.
 
 More to come...
+
+!!!include(includes/footer.md)!!!

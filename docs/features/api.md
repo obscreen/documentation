@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Api
 
 Obscreen provides a REST API to manage content, playlists, screens and more.
@@ -19,3 +21,5 @@ Swagger documentation is available on the API. You can access it on the followin
 ::: tip 
 Use our demo instance to check API endpoints: [`https://demo.obscreen.io/api`](https://demo.obscreen.io/api).
 :::
+
+!!!include(includes/footer.md)!!!

@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Authentication Management
 
 Obscreen provides a very simple way to manage authentication for your Studio instance.
@@ -14,3 +16,5 @@ You'll be logged out from the current session. Default credentials are `admin` f
 ## Manage Users
 
 You can simply add, edit or delete users.
+
+!!!include(includes/footer.md)!!!

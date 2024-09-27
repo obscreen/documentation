@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Studio on Docker
 
 ::: warning Warning
@@ -62,3 +64,5 @@ docker compose pull
 **Using Command Line Interface**: `docker compose up --detach --pull=always`<br />
 **Using Docker Desktop**: Manually restart the container from the dashboard
 :::
+
+!!!include(includes/footer.md)!!!

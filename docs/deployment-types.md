@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # Deployment Types
 
 
@@ -16,3 +18,5 @@ They are the most common and easiest to set up. They are ideal for a simple, sin
 They are more complex and require a central server to manage the players. They are ideal for larger installations with multiple screens. See [Distributed](./deployment-types/distributed.md) for more information or directly choose your preferred deployment type.
 
 - [Managed Multiple Distributed](./deployment-types/distributed.md#managed-multiple-distributed)
+
+!!!include(includes/footer.md)!!!

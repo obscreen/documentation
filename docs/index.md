@@ -1,3 +1,5 @@
+!!!include(includes/header.md)!!!
+
 # What is Obscreen?
 
 [Obscreen](https://obscreen.io) is a simple tool helping you to organizes and broadcasts media to your screens through any web browser. It uses a simple approach that avoids bulky hardware or complicated configurations.
@@ -33,3 +35,5 @@ Curious about the intricate details behind Obscreen? Explore the [learn more](./
 ## Documentation
 
 This documentation is open source and is available on [GitHub](https://github.com/obscreen/documentation).
+
+!!!include(includes/footer.md)!!!
