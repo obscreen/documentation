@@ -2,9 +2,7 @@
 
 # Studio on Docker
 
-::: warning Warning
 These scripts are using docker on linux. Adapt them to your OS if needed.
-:::
 
 ## Prerequisites
 
@@ -19,6 +17,14 @@ curl -sSL get.docker.com | sh && sudo usermod -aG docker $(whoami) && logout
 cd ~ && mkdir -p obscreen/data/db obscreen/data/uploads && cd obscreen
 ```
 
+##### 3. Having license file
+Place the license file `obscreen.lic` in the root of the application files (next to data folder).
+
+::: warning License file
+You need to have a valid license file to use the studio server. Learn more about [how to get one](https://obscreen.io/pricing).
+:::
+
+
 ## > Run with docker compose
 
 ::: tip Info
@@ -26,27 +32,27 @@ This is the recommended way to run the studio server with Docker.
 :::
 
 ```bash
-curl https://raw.githubusercontent.com/jr-k/obscreen/master/docker-compose.yml > docker-compose.yml && docker compose up --detach --pull=always
+curl https://raw.githubusercontent.com/obscreen/obscreen/master/docker-compose.yml > docker-compose.yml && docker compose up --detach --pull=always
 ```
 
 ## > Run with docker
 
 ```bash
-docker run --restart=always --name obscreen --pull=always \
+docker run -d --restart=always --name obscreen --pull=always \
+  -p 5000:5000 \
+  -v ./obscreen.lic:/app/obscreen.lic \
+  -v ./data:/app/data \
   -e DEBUG=false \
   -e PORT=5000 \
   -e SECRET_KEY=ANY_SECRET_KEY_HERE \
-  -p 5000:5000 \
-  -v ./data/db:/app/data/db \
-  -v ./data/uploads:/app/data/uploads \
-  jierka/obscreen:latest
+  obscreen/obscreen:latest
 ```
 
 ## Configuration
 
 Server configuration is editable through environment variables.
 
-Application settings is available at `http://<your_studio_server_instance>:5000/settings/variable/list` page after run.
+Application settings is available at `http://<your_studio_server_instance>:5000/settings` page after run.
 
 ## Troubleshoot
 
@@ -54,15 +60,21 @@ Check logs with `docker compose logs -f`
 
 ## Upgrade
 
+1. Pull latest image
 ```bash
+# Go next to the project folder
 cd ~/obscreen
+
+# Stop the container
 docker compose down
+
+# Pull the latest image
 docker compose pull
 ```
+2. Restart the container
 
-::: warning Restart!
-**Using Command Line Interface**: `docker compose up --detach --pull=always`<br />
-**Using Docker Desktop**: Manually restart the container from the dashboard
-:::
+- Using Command Line Interface: `docker compose up --detach --pull=always`<br />
+- Using Docker Desktop: Manually restart the container from the dashboard
+
 
 !!!include(includes/footer.md)!!!

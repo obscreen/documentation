@@ -18,11 +18,11 @@ Follow our [Installation Guide](./install) guide.
 
 ## Issue tracker
 
-For reporting bugs and requesting features, please use the [issue tracker.](https://github.com/jr-k/obscreen/issues)
+For reporting bugs and requesting features, please use the [issue tracker.](https://github.com/obscreen/obscreen/issues)
 
 ## Support
 
-If you require assistance with Obscreen, please [initiate a discussion](https://github.com/jr-k/obscreen/issues/new/choose) or send an email to [support](mailto:hello@obscreen.io).
+If you require assistance with Obscreen, please [initiate a discussion](https://github.com/obscreen/obscreen/issues/new/choose) or send an email to [support](mailto:hello@obscreen.io).
 
 ## Community
 

@@ -38,11 +38,11 @@ First you have to reboot your device if you never did after obscreen player inst
 You have to set audio channel to HDMI `sudo raspi-config nonint do_audio 1` (0 is for jack 3.5 output)
 
 If you have more than one audio device, you can precisely select which one to use by executing `sudo raspi-config` and follow these steps:
-- `1 System Options`
-- `S2 Audio`
+- Select `1 System Options`
+- Select `S2 Audio`
 - Select your audio output
-- `Ok`
-- `Finish`
+- Select `Ok`
+- Select `Finish`
 
 ## Screen Resolution configuration
 

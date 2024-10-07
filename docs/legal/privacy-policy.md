@@ -42,7 +42,8 @@ We use the information we collect to:
 
 The Software may communicate with the following servers:
 
-- **license.obscreen.io**: Required. Used to verify your license and enable paid features or usage of the Software.
+- **lic.obscreen.io**: Required. Used to verify your license and enable paid features or usage of the Software.
+- **motd.obscreen.io**: Required. Used to display information to the user about the server status, updates, or other important messages.
 - **updates.obscreen.io**: Optional. Used to check for updates to the Software.
 - **support.obscreen.io**: Optional. Used to upload diagnostic information when you report a bug. May be used for other purposes in the future.
 - **ingest.sentry.io**: Optional. Used to collect anonymous error and crash reports, which help us improve the Software and troubleshoot issues.

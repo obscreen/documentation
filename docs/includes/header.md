@@ -1,3 +1,0 @@
-::: danger ⚠️ READ THIS FIRST
-This project is on hold and will shift in scale due to the impact it has on my life. It will resume in October with a Cloud version and a self-hosted Desktop version. Documentation and player installation are still available. Subscribe to the [pre-release mailing list](https://www.obscreen.io/register) to get the latest news about Obscreen. Sorry for the inconvenience. 
-:::

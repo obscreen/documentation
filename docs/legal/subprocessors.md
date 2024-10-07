@@ -4,10 +4,11 @@
 
 We use the following third-party service providers ("Subprocessors") to collect and process information on our behalf. These Subprocessors help us deliver, maintain, and improve the Software.
 
-| Name                          | Purpose                                                                                      |
+| Name                           | Purpose                                                                                      |
 |--------------------------------|----------------------------------------------------------------------------------------------|
 | Amazon Web Services, Inc.      | Hosting provider & Email delivery                                                            |
 | Scaleway                       | Hosting provider                                                                             |
+| Hetzner                        | Hosting provider                                                                             |
 | Cloudflare, Inc.               | Content delivery network (CDN) and DNS provider                                              |
 | Google LLC                     | Workspace services, hosting provider                                                         |
 | Notion Labs, Inc.              | Workspace services                                                                           |

@@ -13,10 +13,10 @@ Some plugins may require additional configuration, dependencies, etc.<br />
 Also, you may need to restart your Studio instance to apply changes.
 :::
 
-## Developers
+<!-- ## Developers
 
-If you want to create your own plugin, you can check [Dashboard Plugin](https://github.com/jr-k/obscreen/tree/master/plugins/user/Dashboard) to get started. It's a very simple (showcase only) plugin that adds a dashboard to your Studio instance.
+If you want to create your own plugin, you can check [Dashboard Plugin](https://github.com/obscreen/obscreen/tree/master/plugins/user/Dashboard) to get started. It's a very simple (showcase only) plugin that adds a dashboard to your Studio instance.
 
-More to come...
+More to come... -->
 
 !!!include(includes/footer.md)!!!

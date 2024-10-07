@@ -43,8 +43,8 @@ export default defineConfig({
         items: [
           { text: 'Introduction', link: '/install' },
           { text: 'Studio (Server)', link: '/install/studio-server', items: [
-            { text: 'System-wide', link: '/install/studio-server/system-wide' },
             { text: 'Docker', link: '/install/studio-server/docker' },
+            { text: 'System-wide', link: '/install/studio-server/system-wide' },
           ]},
           { text: 'Player (Client)', link: '/install/player-client', items: [
             { text: 'Raspberry Pi', link: '/install/player-client/raspberry-pi'},
@@ -95,7 +95,7 @@ export default defineConfig({
     ],
     
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/jr-k/obscreen/' },
+      { icon: 'github', link: 'https://github.com/obscreen/obscreen/' },
       { icon: 'discord', link: 'https://discord.obscreen.io/' }
     ],
     

@@ -4,6 +4,10 @@
 
 Obscreen supports the following advanced content types:
 
+## Youtube Embed
+
+Display a Youtube video. This is not an api integration so you need to manually set a duration for the video in slide settings.
+
 ## External Storage
 
 Let imagine you have a 1000 pictures folder on your USB stick under a specific directory.

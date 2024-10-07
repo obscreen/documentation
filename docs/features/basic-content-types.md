@@ -31,8 +31,4 @@ Display an iframe embed of a web page.
 
 By default, iframes are displayed to fit 100% width and 100% height of the browser window.
 
-## Youtube Embed
-
-Display a Youtube video. This is not an api integration so you need to manually set a duration for the video in slide settings.
-
 !!!include(includes/footer.md)!!!

@@ -2,7 +2,7 @@
 
 # Frequently asked questions
 
-Please <a href="javascript:document.querySelector('.DocSearch.DocSearch-Button').click()">search</a> for your question, or [open an issue](https://github.com/jr-k/obscreen/issues/new/choose) if you can't find an answer.
+Please <a href="javascript:document.querySelector('.DocSearch.DocSearch-Button').click()">search</a> for your question, or [open an issue](https://github.com/obscreen/obscreen/issues/new/choose) if you can't find an answer.
 
 ## Can I install both the server and the client on the same device?
 
