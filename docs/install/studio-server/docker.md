@@ -55,10 +55,35 @@ Application settings is available at `http://<your_studio_server_instance>:5000/
 
 Check logs with `docker compose logs -f` 
 
-## Upgrade
+## Upgrade and Restart Containers
 
-Make sure `--pull=always` is set in the docker run command or in the docker compose file.
-For docker compose, you can also use `docker compose pull` to pull the latest image and `docker compose restart` to restart the container.
+### For Docker (Single Container)
+
+To pull the latest image, stop the container, remove it, and restart it with the same options, use the following command:
+
+```bash
+docker pull obscreen/obscreen:latest
+docker stop obscreen
+docker rm obscreen
+docker run -d --restart=always --name obscreen --pull=always \
+  -p 5000:5000 \
+  -v ./obscreen.lic:/app/obscreen.lic \
+  -v ./data:/app/data \
+  -e DEBUG=false \
+  -e PORT=5000 \
+  -e SECRET_KEY=ANY_SECRET_KEY_HERE \
+  obscreen/obscreen:latest
+```
+
+### For Docker Compose
+
+To pull the latest image, stop the container, remove it, and restart it with the same options, use the following command:
+
+```bash
+docker compose down
+docker compose pull
+docker compose up --detach --pull=always
+```
 
 
 <!-- 1. Pull latest image
