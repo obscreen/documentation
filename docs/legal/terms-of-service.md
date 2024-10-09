@@ -6,7 +6,7 @@ Welcome to Obscreen. Obscreen is software developed by Jessym Reziga ("we", "us"
 
 If you do not agree with all of these Terms, you must not download, install, or use Obscreen.
 
-Also see our [Privacy Policy](/legal/privacy-policy.md) and [Master Software License Agreement](/legal/license.md).
+Also see our [Privacy Policy](/legal/privacy-policy.md) and [Software License Agreement](/legal/license.md).
 
 
 ## 1. License Grant

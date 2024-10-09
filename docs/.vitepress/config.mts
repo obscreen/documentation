@@ -44,7 +44,6 @@ export default defineConfig({
           { text: 'Introduction', link: '/install' },
           { text: 'Studio (Server)', link: '/install/studio-server', items: [
             { text: 'Docker', link: '/install/studio-server/docker' },
-            { text: 'System-wide', link: '/install/studio-server/system-wide' },
           ]},
           { text: 'Player (Client)', link: '/install/player-client', items: [
             { text: 'Raspberry Pi', link: '/install/player-client/raspberry-pi'},

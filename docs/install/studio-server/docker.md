@@ -24,17 +24,6 @@ Place the license file `obscreen.lic` in the root of the application files (next
 You need to have a valid license file to use the studio server. Learn more about [how to get one](https://obscreen.io/pricing).
 :::
 
-
-## > Run with docker compose
-
-::: tip Info
-This is the recommended way to run the studio server with Docker.
-:::
-
-```bash
-curl https://raw.githubusercontent.com/obscreen/obscreen/master/docker-compose.yml > docker-compose.yml && docker compose up --detach --pull=always
-```
-
 ## > Run with docker
 
 ```bash
@@ -48,6 +37,14 @@ docker run -d --restart=always --name obscreen --pull=always \
   obscreen/obscreen:latest
 ```
 
+
+## > Run with docker compose
+
+```bash
+curl https://raw.githubusercontent.com/obscreen/obscreen/master/docker-compose.yml > docker-compose.yml && docker compose up --detach --pull=always
+```
+
+
 ## Configuration
 
 Server configuration is editable through environment variables.
@@ -60,7 +57,11 @@ Check logs with `docker compose logs -f`
 
 ## Upgrade
 
-1. Pull latest image
+Make sure `--pull=always` is set in the docker run command or in the docker compose file.
+For docker compose, you can also use `docker compose pull` to pull the latest image and `docker compose restart` to restart the container.
+
+
+<!-- 1. Pull latest image
 ```bash
 # Go next to the project folder
 cd ~/obscreen
@@ -74,7 +75,7 @@ docker compose pull
 2. Restart the container
 
 - Using Command Line Interface: `docker compose up --detach --pull=always`<br />
-- Using Docker Desktop: Manually restart the container from the dashboard
+- Using Docker Desktop: Manually restart the container from the dashboard -->
 
 
 !!!include(includes/footer.md)!!!
